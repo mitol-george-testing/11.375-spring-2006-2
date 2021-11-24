@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9ebffd9a-33e2-5c35-67d7-8f845ecbf02d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking",
+  "course_description": "This course examines joint fact-finding within the context of adaptive and ecosystem-based management. Challenges and obstacles to collaborative approaches for deciding environmental and natural resource policy and the institutional changes within federal agencies necessary to utilize joint fact-finding as a means to link science and societal decisions are discussed and reviewed with scientists and managers. Senior-level federal policymakers also participate in these discussions.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.375",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
